@@ -12,4 +12,5 @@ In the video I attached below, there are 4 runners.
 - When the runner collides with an obstacle, they will lost HP (they also lose HP from moving)
 - The race ends when all runners are dead.
 
+https://youtu.be/c7qX5fwkDlo
 
